@@ -2,7 +2,7 @@
 
 
 ## Description
-Set of purview small tools based on python notebooks and similar.
+Set of purview small tools based on python notebooks running on an Azure Synapse workspace.
 
 The code in these notebooks might be used as a Boilerplate container to provide examples of code reusable for custom purposes.
 
