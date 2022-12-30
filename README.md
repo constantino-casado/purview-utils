@@ -10,7 +10,7 @@ The code in these notebooks might be used as a Boilerplate container to provide 
 The code is designed to be run in a Synapse Spark environment
 
 ## Prerequisites
-You need to set up first:
+The code requires setting:
 - A Synapse workspace capable of running Spark code
 - A Service principal identity with contribuitor permissions in the Purview root collection
 - A keyvault to manage the Service principal secret (as recommended in good practices) 
